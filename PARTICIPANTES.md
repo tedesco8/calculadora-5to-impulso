@@ -1,3 +1,2 @@
 Lista con patricipantes del ejercicio.
-Catalina Gamarra
-
+Catalina Gamarra Reportandose2..
